@@ -24,4 +24,4 @@ If the user chooses Admin, they will be prompted to enter the Admin ID and Passw
 If the user chooses Student, they will be prompted to choose between four options: Lend books, Return books, View books, and Exit. Based on their choice, they can perform the corresponding action.
 
 Contributors
-This program was written by [Govardan.N.A.]. Feel free to use, modify, and distribute this code for educational purposes.
+This program was written by [AYUSH DHIMAN]. Feel free to use, modify, and distribute this code for educational purposes.
